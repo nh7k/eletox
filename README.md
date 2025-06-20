@@ -1,8 +1,5 @@
-# ✨ Full Stack Realtime Chat App ✨
+full stack project electox
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
 
 Highlights:
 
@@ -10,10 +7,7 @@ Highlights:
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+-
 
 ### Setup .env file
 
@@ -33,10 +27,5 @@ NODE_ENV=development
 
 ```shell
 npm run build
-```
+npm run deev
 
-### Start the app
-
-```shell
-npm start
-```
